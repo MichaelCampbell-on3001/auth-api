@@ -42,7 +42,7 @@
 
 #### UML
 
-![UML](labclass8uml.PNG)
+![UML](labclass8uml.png)
 
 created with [invisionApp](https://invisionapp.com/)
 
