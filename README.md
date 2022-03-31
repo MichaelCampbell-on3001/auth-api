@@ -46,6 +46,6 @@
 (created with [invisionApp](https://invisionapp.com/) )
 
 
-![alt text](labclass8uml.png)
+
 
 ![UML](labclass8uml.PNG)
