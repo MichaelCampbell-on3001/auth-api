@@ -14,7 +14,7 @@
 [repo](https://github.com/MichaelCampbell-on3001/auth-api)
 
 #### Pull Request
-[Basic Auth Pull Request]()
+[Basic Auth Pull Request](https://github.com/MichaelCampbell-on3001/auth-api/pull/1)
 
 #### USED SQLite
 
