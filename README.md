@@ -39,12 +39,12 @@
 
 #### Tests
 - Server Test `npm run test`
-- 
-- 
 
 #### UML
 
+
 ![UML](labclass8uml.PNG)
+
 
 created with [invisionApp](https://invisionapp.com/)
 
