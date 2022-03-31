@@ -6,12 +6,12 @@ const cors = require('cors');
 const morgan = require('morgan');
 
 // Esoteric Resources
-const notFoundHandler = require('./error-handlers/404.js.js');
-const notFound = require('./error-handlers/404.js.js');
-const errorHandler = require('./error-handlers/500.js.js');
-const logger = require('./middleware/logger.js.js');
+const notFoundHandler = require('./error-handlers/404.js.js.js');
+const notFound = require('./error-handlers/404.js.js.js');
+const errorHandler = require('./error-handlers/500.js.js.js');
+const logger = require('./middleware/logger.js.js.js');
 const authRoutes = require('./auth/routes.js');
-const v1Routes = require('./routes/v1.js.js.js.js');
+const v1Routes = require('./routes/v1.js.js.js.js.js');
 // Prepare the express app
 const app = express();
 

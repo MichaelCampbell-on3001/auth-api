@@ -4,7 +4,7 @@
 
 require('dotenv').config();
 const server = require('./src/server.js');
-const { db } = require('./src/auth/models');
+const { db } = require('../src/auth/models');
 
 authdb.sync().then(() => {
   app.start(process.env.PORT || 3001);
