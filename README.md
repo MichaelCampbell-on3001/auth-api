@@ -47,7 +47,4 @@
 
 
 
-
-![UML](labclass8uml.PNG)
-
 ![UML](labclass8uml.PNG)
